@@ -1,8 +1,11 @@
-# debate_8-23-23
+debate_8-23-23
 
-# Analysis steps
-   
-## To find just most common words by person-
+#To get the transcription
+##Ask Simran or Tory
+
+# Now, you have the data!
+
+##To find just most common words by person-
     1- Separate *by person* into seperate files
 
     2- Use lastname_word.csv as the file name (IE Pence_eggs.csv)
