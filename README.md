@@ -1,7 +1,7 @@
 debate_8-23-23
 
 # To get the transcription
-## Ask Simran or Tory
+Ask Simran or Tory
 
 # Now, you have the data!
 
